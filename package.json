@@ -1,6 +1,5 @@
 {
   "dependencies":{
-    "jQuery" : "*",
     "express": "*",
     "jade"   : "*"
   }
