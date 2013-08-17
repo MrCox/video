@@ -1,0 +1,7 @@
+{
+  "dependencies":{
+    "jQuery" : "*",
+    "express": "*",
+    "jade"   : "*"
+  }
+}
